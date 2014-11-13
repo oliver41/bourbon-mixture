@@ -1,5 +1,2 @@
-{{ "jquery.js" | asset_url | script_tag }}
-{{ "/app/scripts/app.js" | asset_url | script_tag }}
-<script>
-$(document).foundation();
-</script>
+{{ "vendor/jquery.js" | asset_url | script_tag }}
+{{ "app.js" | asset_url | script_tag }}
