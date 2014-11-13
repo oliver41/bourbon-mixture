@@ -1,14 +1,14 @@
 
-# Bourbon Neat and Bitter for Mixture
+# Bourbon Neat and Bitter for Mixture.io
 
 A simple, lightweight and semantic sass framework build for speed
 
 
-## Version (Date 13.Nov 2015):
+## Version 0.0.1 (Date 13.Nov 2015):
 
-Bourbon v. 4.0.2 / Neat v. 1.7.0 / Bitter v. 0.10.1
+with Bourbon v. 4.0.2 / Neat v. 1.7.0 / Bitter v. 0.10.1
 
-
+#### For a fast start use it with Refills, a prepackaged patterns and components library, built on top of these 3 tools
 
 ### BOURBON - A simple and lightweight mixin library for Sass
 
