@@ -1,6 +1,7 @@
 header,
 .container {
     @include outer-container;
+    @include clearfix;
 }
 
 h2 {
@@ -13,4 +14,14 @@ h3 {
 
 h4 {
   margin: 40px 0 20px;
+}
+
+.modal {
+	text-align: center;
+	margin: 30px 0 60px;
+}
+
+.comment {
+	@include span-columns(8);
+	@include shift(2);
 }
