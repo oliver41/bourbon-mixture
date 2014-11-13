@@ -22,7 +22,7 @@
 	"modelSource": null,
 	"preprocessorLocations": [
 		"assets/scss",
-		"app/scripts"
+		"app"
 	],
 	"preprocessorScriptOutput": "app/scripts",
 	"preprocessorStyleOutput": "app/styles",
