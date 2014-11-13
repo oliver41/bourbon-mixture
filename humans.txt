@@ -1,0 +1,8 @@
+/* Bourbon, Neat and Bitters is maintained and funded by Thoughtbot, inc. */
+/* bourbon.io */
+/* humanstxt.org */
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: jQuery
+  Software: Sublime, Git, Sass

@@ -1,0 +1,40 @@
+{% block content %}
+
+	<h1>Bourbon with Neat and Bitter <span class="label label-success">Simple</span> + with prepacked patterns and components</h1>
+
+	<p>A semantic, fluid grid framework with base layout on top of Sass and Bourbon</p>
+	<hr>
+
+	<p>
+	This is a quick and simple setup for using <a href="https://github.com/twbs/bootstrap-sass">these 3 tools together</a> in Mixture.
+	</p>
+	<p>
+	It currently uses Bourbon v.4.0.2, Neat v.1.7.0, Bitter v.0.10.1 and has Libsass and Autoprefixer activated.
+	</p>
+
+<h3>Use Refills for fast start</h3>
+	<p>You can use <a href="http://refills.bourbon.io/">Refills</a>, a set of prepackaged patterns and components - built with Bourbon, Bitters, and Neat.</p>	
+
+	<code>Please note the project is in debugg mode by default. To change it, go to mixture.json and change "debug": true" to "debug": false".</code>
+	<hr>
+	<p>
+	<span class="label label-success">Updated for Mixture v2.55</span> <span class="label label-success">Bootstrap 3.2</span>
+	</p>
+
+
+	<ul>
+		<li>Add Javascript in assets/js/app.js</li>
+		<li>Edit Styles in assets/scss/_style.scss</li>
+		<li>Edit Grid settings in assets/scss/components/base/_grid-settings.scss</li>
+		<li>Edit Variables in assets/scss/components/base/_variables.scss</li>
+		<li>Add Styles for Modules and Pages in assets/scss/modules or assets/scss/pages</li>
+		<li>Add Images in app/img</li>
+		<li>Add Fonts in app/fonts</li>
+	</ul>
+
+	<a href="/example">Example page.</a>
+	<br><br>
+	<div class="well"><a href="https://github.com/kikedomingo/bts-sass-mixture" target="_blank">Feel free to modify the boilerplate in Github.</a></div>
+
+{% endblock %}
+
