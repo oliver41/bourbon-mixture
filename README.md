@@ -4,7 +4,7 @@
 A simple, lightweight and semantic sass framework build for speed
 
 
-##### Version 0.0.1 (Date 13.Nov 2015):
+##### Version 0.0.2 (Date 13.Nov 2015):
 
 with Bourbon v. 4.0.2 / Neat v. 1.7.0 / Bitter v. 0.10.1
 
